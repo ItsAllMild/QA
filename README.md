@@ -15,6 +15,6 @@ QA, a program that functions on your computer to mainly help you settle around a
 ### VersionDemoBuild2
 > Future Version
 
-> Coming December 4
+> Coming December 1 ~9:00
 
 **TestVersion2** is the second demo version of QA, yet not a full one.
